@@ -16,8 +16,8 @@ Add a dependency to the following project in common-libraries:
 Also add a dependency to `spring-cloud-starter-stream-rabbit`:
 ```yml
 <dependency>
-	<groupId>org.springframework.cloud</groupId>
-	<artifactId>spring-cloud-starter-stream-rabbit</artifactId>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-starter-stream-rabbit</artifactId>
 </dependency>
 ```
 
